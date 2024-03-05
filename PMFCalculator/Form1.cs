@@ -66,18 +66,18 @@ namespace PMFCalculator
                 uf[i] = pmf[i];
             }
 
-            for (int i = 0; i < X.Length; i++)
+            for (int i = 1; i < X.Length; i++)
             {
                 chart1.Series["Series1"].Points.AddXY(X[i], uf[i]);
-                if (i > 0)
+                if (i > -1)
                 {
                     chart1.Series["Series1"].Points.AddXY(X[i], 0);
                     chart1.Series["Series1"].Points.AddXY(X[i], uf[i]);
                 }
             }
 
-            chart1.ChartAreas[0].AxisX.Title = "X kesin uzayi";
-            chart1.ChartAreas[0].AxisY.Title = "Uyelik Dereceleri";
+            chart1.ChartAreas[0].AxisX.Title = "8-Bit Grayscale";
+            chart1.ChartAreas[0].AxisY.Title = "# of Occurencess";
             chart1.Series["Series1"].ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             chart1.Series["Series1"].Color = Color.Blue;
         }

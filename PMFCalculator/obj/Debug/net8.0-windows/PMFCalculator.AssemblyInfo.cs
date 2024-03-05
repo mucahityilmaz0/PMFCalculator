@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PMFCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2305f3b4a224cfcaac83f40f7abc908a1e4cac6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PMFCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PMFCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

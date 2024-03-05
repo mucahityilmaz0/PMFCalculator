@@ -49,3 +49,4 @@ C:\Users\gmuca\OneDrive\Masaüstü\PMFCalculator\PMFCalculator\obj\Debug\net8.0-
 C:\Users\gmuca\OneDrive\Masaüstü\PMFCalculator\PMFCalculator\obj\Debug\net8.0-windows\PMFCalculator.pdb
 C:\Users\gmuca\OneDrive\Masaüstü\PMFCalculator\PMFCalculator\obj\Debug\net8.0-windows\PMFCalculator.genruntimeconfig.cache
 C:\Users\gmuca\OneDrive\Masaüstü\PMFCalculator\PMFCalculator\obj\Debug\net8.0-windows\ref\PMFCalculator.dll
+C:\Users\gmuca\OneDrive\Masaüstü\PMFCalculator\PMFCalculator\obj\Debug\net8.0-windows\PMFCalculator.sourcelink.json
